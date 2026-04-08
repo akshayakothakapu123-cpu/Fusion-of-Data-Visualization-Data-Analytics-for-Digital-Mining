@@ -29,9 +29,6 @@ Visualization Dashboard
 🔹 GUI Application Interface
 <img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/b381cb6e-a9eb-44a4-a28a-d59118e747da" />
 
-<img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/1f76b26f-10ae-4fc3-b32e-bff6638542ce" />
-<img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/20fa1eac-9251-42ea-9281-8cf2eda90ee7" />
-
 🔹 Data Visualization Outputs
 <img width="720" height="387" alt="image" src="https://github.com/user-attachments/assets/29937ec0-b330-4a93-8749-388497d313c6" />
 <img width="822" height="686" alt="image" src="https://github.com/user-attachments/assets/b8d42399-41da-413f-961c-4adce9b2cdbf" />
