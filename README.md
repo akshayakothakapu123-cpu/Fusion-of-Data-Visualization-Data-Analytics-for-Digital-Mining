@@ -16,7 +16,6 @@ This project focuses on combining data analytics and visualization to solve real
 ✅ GUI-based application using Tkinter
 ✅ Predictive insights using Machine Learning concepts
 <img width="470" height="418" alt="image" src="https://github.com/user-attachments/assets/8a7522b4-c4eb-4d0c-99e7-ab763b4836fe" />
-<img width="470" height="418" alt="image" src="https://github.com/user-attachments/assets/02955e64-30a4-4e7d-b86b-bc6219397a8a" />
 
 📌 The system consists of:
 Data Collection & Sensing
@@ -29,7 +28,7 @@ Visualization Dashboard
 📊 Project Screenshots
 🔹 GUI Application Interface
 <img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/b381cb6e-a9eb-44a4-a28a-d59118e747da" />
-<img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/21aa697d-85e3-424e-a88f-9b1afb1b206e" />
+
 <img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/1f76b26f-10ae-4fc3-b32e-bff6638542ce" />
 <img width="697" height="556" alt="image" src="https://github.com/user-attachments/assets/20fa1eac-9251-42ea-9281-8cf2eda90ee7" />
 
