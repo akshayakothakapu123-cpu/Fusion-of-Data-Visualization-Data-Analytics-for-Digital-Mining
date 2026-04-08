@@ -68,12 +68,7 @@ Data fragmentation across systems
 Lack of real-time insights
 Complex data interpretation
 Limited visualization capabilities
-🎯 Future Scope
 
-🔮 Integration with real-time IoT sensors
-🔮 Advanced Machine Learning models
-🔮 Cloud-based dashboards
-🔮 Fully functional Digital Twin system
 
 📂 Project Structure
 📁 Project Folder
